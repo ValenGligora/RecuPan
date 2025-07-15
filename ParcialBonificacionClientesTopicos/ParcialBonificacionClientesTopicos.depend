@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1701183684 source:c:\users\laboratorios\desktop\a_topicos_martes\parcialbonificacionclientestopicos_entregable\parcialbonificacionclientestopicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../SolucionParcialBonificacionClientesTopicos/UtilitariasParcialBonificacionClientes.h"
+	"../SolucionParcialBonificacionClientesTopicos/SolucionParcialBonificacionClientes.h"
+	"../SolucionParcialBonificacionClientesTopicos/TiposArchivos.h"
+	"../TDALista/TDALista.h"
+
+1700940634 c:\users\laboratorios\desktop\a_topicos_martes\parcialbonificacionclientestopicos_entregable\solucionparcialbonificacionclientestopicos\utilitariasparcialbonificacionclientes.h
+
+1700940634 c:\users\laboratorios\desktop\a_topicos_martes\parcialbonificacionclientestopicos_entregable\solucionparcialbonificacionclientestopicos\solucionparcialbonificacionclientes.h
+
+1700940634 c:\users\laboratorios\desktop\a_topicos_martes\parcialbonificacionclientestopicos_entregable\solucionparcialbonificacionclientestopicos\tiposarchivos.h
+
+1700940634 c:\users\laboratorios\desktop\a_topicos_martes\parcialbonificacionclientestopicos_entregable\tdalista\tdalista.h
+	<stdbool.h>
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamicaVec/TDAListaImplDinamicaVec.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1700940634 c:\users\laboratorios\desktop\a_topicos_martes\parcialbonificacionclientestopicos_entregable\comun\comun.h
+
+1700940634 c:\users\laboratorios\desktop\a_topicos_martes\parcialbonificacionclientestopicos_entregable\tdalistaimpldinamicavec\tdalistaimpldinamicavec.h
+	<stddef.h>
+
+1752609504 source:c:\users\pc\downloads\recupan_1 (1)\a_topicos_martes\parcialbonificacionclientestopicos_entregable\parcialbonificacionclientestopicos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1752586226 c:\users\pc\downloads\recupan_1 (1)\a_topicos_martes\parcialbonificacionclientestopicos_entregable\solucionparcialbonificacionclientestopicos\utilitariasparcialbonificacionclientes.h
+
+1752586226 c:\users\pc\downloads\recupan_1 (1)\a_topicos_martes\parcialbonificacionclientestopicos_entregable\solucionparcialbonificacionclientestopicos\solucionparcialbonificacionclientes.h
+
+1752586226 c:\users\pc\downloads\recupan_1 (1)\a_topicos_martes\parcialbonificacionclientestopicos_entregable\solucionparcialbonificacionclientestopicos\tiposarchivos.h
+
+1752586226 c:\users\pc\downloads\recupan_1 (1)\a_topicos_martes\parcialbonificacionclientestopicos_entregable\tdalista\tdalista.h
+	<stdbool.h>
+	"../Comun/Comun.h"
+	"../TDAListaImplDinamicaVec/TDAListaImplDinamicaVec.h"
+	"../TDAListaImplDinamica/TDAListaImplDinamica.h"
+	"../TDAListaImplDinamicaDoble/TDAListaImplDinamicaDoble.h"
+
+1752586226 c:\users\pc\downloads\recupan_1 (1)\a_topicos_martes\parcialbonificacionclientestopicos_entregable\comun\comun.h
+
+1752586226 c:\users\pc\downloads\recupan_1 (1)\a_topicos_martes\parcialbonificacionclientestopicos_entregable\tdalistaimpldinamicavec\tdalistaimpldinamicavec.h
+	<stddef.h>
+
